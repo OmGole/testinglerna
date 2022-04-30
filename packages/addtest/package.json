@@ -1,5 +1,5 @@
 {
-  "name": "add2",
+  "name": "@add2",
   "version": "1.6.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "c71ea78f5c87cd97311462e82bfb5bb3970143d7"
+  "gitHead": "50da228a2fade3f0cac9634609e0c7e75c89dff3"
 }

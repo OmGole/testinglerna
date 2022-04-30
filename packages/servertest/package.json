@@ -1,5 +1,5 @@
 {
-  "name": "server2",
+  "name": "servertest",
   "version": "1.6.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,5 @@
     "body-parser": "^1.20.0",
     "express": "^4.17.3"
   },
-  "gitHead": "c71ea78f5c87cd97311462e82bfb5bb3970143d7"
+  "gitHead": "50da228a2fade3f0cac9634609e0c7e75c89dff3"
 }
