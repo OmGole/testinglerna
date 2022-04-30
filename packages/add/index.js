@@ -9,4 +9,8 @@ const mul = (a,b) => {
   return a*b;
 }
 
-module.exports = {add,sub,mul};
+const div = (a,b) => {
+  return a/b;
+}
+
+module.exports = {add,sub,mul,div};

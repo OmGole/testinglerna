@@ -7,6 +7,7 @@ const {add,sub,mul} = require("./node_modules/add/index")
 console.log(add(2,2));
 console.log(sub(2,2));
 console.log(mul(2,2));
+console.log(div(2,2));
 
 app.listen(port,(err) => {
   if(err) {
