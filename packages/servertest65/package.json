@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "add": "^1.4.0",
+    "addtest65": "1.7.2",
     "body-parser": "^1.20.0",
     "express": "^4.17.3"
   },

@@ -13,4 +13,8 @@ const div = (a,b) => {
   return a/b;
 }
 
-module.exports = {add,sub,mul,div};
+const zero = ()=>{
+  return 0;
+}
+
+module.exports = {add,sub,mul,div,zero};
