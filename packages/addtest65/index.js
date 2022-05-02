@@ -17,4 +17,8 @@ const zero = ()=>{
   return 0;
 }
 
-module.exports = {add,sub,mul,div,zero};
+const one = ()=> {
+  return 1;
+}
+
+module.exports = {add,sub,mul,div,zero,one};

@@ -9,6 +9,7 @@ console.log(sub(2,2));
 console.log(mul(2,2));
 console.log(div(2,2));
 console.log(zero());
+console.log(one());
 
 app.listen(port,(err) => {
   if(err) {
